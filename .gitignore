@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.netlify/
+.env
+.env.*
+!.env.example
+.dev.vars*
+*.sqlite3
+*.sqlite3-*
+__pycache__/
+*.pyc
